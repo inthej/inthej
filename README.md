@@ -11,7 +11,7 @@ _Web Developer_
 I'm an enthusiast of web development. Always looking to be the best at what I do.
 
 ___
-```
+```dart
 const inthej = Developer(
     pronouns: ["He", "Him"],
     askMeAbout: ["Web development", "React development"],
