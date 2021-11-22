@@ -14,15 +14,16 @@ ___
 const inthej = Developer(
     pronouns: ["He", "Him"],
     askMeAbout: ["Web development", "React development"],
-    languages: ["JavaScript", "jQuery", "JSP", "React", "TypeScript"],
-    tools: ["IntelliJ", "Sequel Pro", "Slack"],
+    language: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
+    library: ["React", "jQuery", "Ajax"],
+    tool: ["IntelliJ", "Sequel Pro", "Slack"],
     architecture: ["Layered Architecture", "Domain Driven Design"],
-    misc: ["Firebase", "Algorithm", "Agora Real-Time Voice and Video Engagement"],
+    interest: ["Algorithm", "Functional Programming", "Refactoring"],
 );
 ```
 
 ### GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=java,lua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
