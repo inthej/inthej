@@ -1,7 +1,6 @@
-### Hi there 👋
-
+[comment]: <> (### Hi there 👋)
 <h2>
-    Hi, I'm IntheJ
+    Hi, I'm IntheJ!
     <img src="https://avatars.githubusercontent.com/u/29036135?v=4" width="40" />
 </h2>
 
