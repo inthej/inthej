@@ -1,7 +1,8 @@
 [comment]: <> (### Hi there 👋)
 <h2>
     Hi, I'm IntheJ!
-    <img src="https://avatars.githubusercontent.com/u/29036135?v=4" width="40" />
+
+[comment]: <> (    <img src="https://avatars.githubusercontent.com/u/29036135?v=4" width="40" />)
 </h2>
 
 _Web Developer_
@@ -17,8 +18,8 @@ const inthej = Developer(
     language: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
     library: ["React", "jQuery", "Ajax"],
     tool: ["IntelliJ", "Sequel Pro", "Slack"],
-    architecture: ["Layered Architecture", "Domain Driven Design"],
-    interest: ["Algorithm", "Functional Programming", "Refactoring"],
+    architecture: ["Layered Architecture"],
+    interest: ["Algorithm", "FP", "Refactoring"],
 );
 ```
 
