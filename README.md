@@ -12,14 +12,14 @@ I'm an enthusiast of web development. Always looking to be the best at what I do
 
 ___
 ```dart
-const inthej = Developer(
+const inthej = new Developer(
     pronouns: ["He", "Him"],
     askMeAbout: ["Web development", "React development"],
-    language: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
-    library: ["React", "jQuery", "Ajax"],
-    tool: ["IntelliJ", "Sequel Pro", "Slack"],
+    languages: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
+    libraries: ["React", "jQuery", "Ajax"],
+    tools: ["IntelliJ", "Sequel Pro", "Slack"],
     architecture: ["Layered Architecture"],
-    interest: ["Algorithm", "FP", "Refactoring"],
+    interests: ["Algorithm", "FP", "Refactoring"],
 );
 ```
 
