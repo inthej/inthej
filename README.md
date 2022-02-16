@@ -24,7 +24,7 @@ const inthej = new Developer(
 ```
 
 ### GitHub stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inthej&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=java,lua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
