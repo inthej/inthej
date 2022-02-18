@@ -12,7 +12,7 @@ I'm an enthusiast of web development. Always looking to be the best at what I do
 
 ___
 ```dart
-const inthej = new Developer(
+const inthej = new Developer({
     pronouns: ["He", "Him"],
     askMeAbout: ["Web development", "React development"],
     languages: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
@@ -20,7 +20,7 @@ const inthej = new Developer(
     tools: ["IntelliJ", "Sequel Pro", "Slack"],
     architecture: ["Layered Architecture"],
     interests: ["Algorithm", "FP", "Refactoring"],
-);
+});
 ```
 
 ### GitHub stats
