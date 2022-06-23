@@ -1,44 +1,14 @@
-[comment]: <> (### Hi there 👋)
-<h2>
-    Hi, I'm IntheJ!
+![dino.gif](./dino.gif)
 
-[comment]: <> (    <img src="https://avatars.githubusercontent.com/u/29036135?v=4" width="40" />)
-</h2>
+## INTHEJ
 
-_Web Developer_
+🌱 I’m currently learning ...
 
-### About me
-I'm an enthusiast of web development. Always looking to be the best at what I do.
-
-___
-```dart
-const inthej = new Developer({
-    pronouns: ["He", "Him"],
-    askMeAbout: ["Web development", "React development"],
-    languages: ["Java", "JavaScript", "TypeScript", "Swift", "PHP"],
-    libraries: ["React", "jQuery", "Ajax"],
-    tools: ["IntelliJ", "Sequel Pro", "Slack"],
-    architecture: ["Layered Architecture"],
-    interests: ["Algorithm", "FP", "Refactoring"],
-});
-```
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finthej%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://inthej.com)
 
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inthej&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=java,lua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![INTHEJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=INTHEJ)
 
-<!--
-**inthej/inthej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact)]
