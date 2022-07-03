@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=html&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=html)
 
 ### 🏆 GitHub Trophy
 
