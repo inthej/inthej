@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=inthej&column=8&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=inthej&column=4)
