@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://inthej.com" target="_blank" rel="noopener noreferrer">📝 Blog</a>
-  <a href="https://twitter.com/inthej" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
+  <a href="https://twitter.com/inthej12" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
   <a href="mailto:inthej12@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
 </p>
 
