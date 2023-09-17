@@ -1,35 +1,15 @@
-![dino.gif](./dino.gif)
+<h3 align="center">
+  Hi, I'm Jaehyun 👋
+</h3>
 
-### INTHEJ
+<p align="center">
+  <a href="https://inthej.com" target="_blank" rel="noopener noreferrer">📝 Blog</a>
+  <a href="https://twitter.com/inthej" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
+  <a href="mailto:inthej12@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
+</p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finthej%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-[![Blog](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://inthej.com)
+---
 
-[//]: # ([![]&#40;https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue&#41;]&#40;https://inthej.com;)
-[//]: # ([![]&#40;https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red&#41;]&#40;https://inthej.com;)
-
-<!--
-**inthej/inthej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🌱 I’m currently learning ...
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inthej&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inthej&layout=compact&hide=html)
-
-### 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=inthej&column=4)
+- 🧑🏻‍💻 I'm currently working at [@transcosmos-korea](https://www.trans-cosmos.co.kr) as web developer.
+- 💙 I like functional programming.
+- 📫 How to reach me: inthej12@gmail.com
